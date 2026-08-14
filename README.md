@@ -11,7 +11,6 @@ I am a Computer Science and Engineering student at **KIIT Bhubaneswar** with a s
 
 When I step away from the keyboard, you can usually find me at the gym training for my next powerlifting block. 
 
-*   🎓 **Academics:** Maintaining a 9.5+ CGPA with coursework in Operating Systems and Database Management.
 *   🛠️ **Currently Building:** Automated Telemetry & Remediation Engine
 *   📫 **Reach me at:** mohneeshklb@gmail.com
 
