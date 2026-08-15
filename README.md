@@ -16,9 +16,7 @@ When I step away from the keyboard, you can usually find me at the gym training 
 
 ### Tech Stack & Tools
 * **Languages:** C, C++, Python, Java
-* **Concepts & Architecture:** Database Management, Operating Systems
 * **IoT & Hardware:** ESP32, MQTT
-* **Platforms & Deployment:** macOS, Hugging Face, Netlify
 
 ### How to Reach Me
 * **Email:** mohneeshklb@gmail.com
