@@ -8,8 +8,13 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    # THIS is the magic line that fixes exit code 128
+    permissions:
+      contents: write 
+
     steps:
-      - uses: actions/checkout@v3
+      # Updated to v4 to fix the Node.js deprecation warning
+      - uses: actions/checkout@v4 
       
       - uses: Platane/snk@v3
         with:
@@ -18,7 +23,8 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      # Updated to v4
+      - uses: crazy-max/ghaction-github-pages@v4.0.0 
         with:
           target_branch: output
           build_dir: dist
