@@ -22,17 +22,16 @@ When I step away from the keyboard, you can usually find me at the gym training 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohneeshPurohit&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohneeshPurohit&theme=dark&hide_border=false&include_all_commits=true&v=1" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohneeshPurohit&theme=dark&hide_border=false" width="48%" alt="GitHub Streak" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohneeshPurohit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" alt="Top Languages" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=MohneeshPurohit&limit=5&theme=dark&combine_all_yearly_contributions=true" width="48%" alt="Top Contributed Repo" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohneeshPurohit&theme=dark&hide_border=false&include_all_commits=true&layout=compact&v=1" width="48%" alt="Top Languages" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=MohneeshPurohit&limit=5&theme=dark&combine_all_yearly_contributions=true&v=1" width="48%" alt="Top Contributed Repo" />
 </div>
 
 <div align="left">
   <br>
-  <!-- Removed the invalid color=0 tag so it defaults to its standard look -->
   <img src="https://komarev.com/ghpvc/?username=MohneeshPurohit&icon=9" alt="Profile Views" />
 </div>
