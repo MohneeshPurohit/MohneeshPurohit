@@ -29,3 +29,8 @@ When I step away from the keyboard, you can usually find me at the gym training 
   <br>
   <img src="https://komarev.com/ghpvc/?username=MohneeshPurohit&icon=9" alt="Profile Views" />
 </div>
+
+### Contribution Activity
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MohneeshPurohit/MohneeshPurohit/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
