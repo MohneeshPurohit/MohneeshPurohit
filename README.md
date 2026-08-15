@@ -12,10 +12,10 @@ I am a developer with a strong focus on backend architecture and hardware-softwa
 When I step away from the keyboard, you can usually find me at the gym training for my next powerlifting block.
 
 ### What I'm Currently Working On
-* **Sentinel Telemetry AI:** Building core infrastructure for automated systems. 
+* **Sentinel Telemetry AI:** Sentinel Telemetry AI is an autonomous, air-gapped industrial IoT diagnostic system designed as a privacy-first pipeline. Built as a production-grade telemetry and remediation engine, it focuses on deterministic control, observability, and self-healing systems.
 
 ### Tech Stack & Tools
-* **Languages:** C, Java
+* **Languages:** C, C++, Python, Java
 * **Concepts & Architecture:** Database Management, Operating Systems
 * **IoT & Hardware:** ESP32, MQTT
 * **Platforms & Deployment:** macOS, Hugging Face, Netlify
