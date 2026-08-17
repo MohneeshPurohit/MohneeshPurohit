@@ -1,7 +1,7 @@
 # Mohneesh Purohit
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=CSE+Undergrad;IoT;GenAI;Agentic+AI;Machine+Learning;Deep+Learning;NLP;Data+Science;" alt="Typing SVG" />
+  <img src="https://github.com/user-attachments/assets/6616311c-4849-4eec-ac30-8196924c1807" width="55%" alt="Header Banner" />
 </div>
 
 ---
