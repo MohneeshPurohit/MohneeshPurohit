@@ -1,8 +1,17 @@
 # Mohneesh Purohit
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/6616311c-4849-4eec-ac30-8196924c1807" width="55%" alt="Header Banner" />
-</div>
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/1eb30253-742a-46ee-a1c2-90e0ec1f2d2a" 
+    style="
+      width: 100%;
+      height: 250px;
+      object-fit: cover;
+      object-position: bottom;
+    "
+    alt="Храм Пространства Асмодей Genshin impact"
+  />
+</p
 
 ---
 
