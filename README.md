@@ -28,7 +28,7 @@ When I step away from laptop, I apply that same structured discipline to the gym
 <br>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=You're%20never%20truly%20alone.%20Sometimes%20in%20Life%20the%20Bravest%20thing%20you%20can%20do%20is%20ask%20for%20help.&author=Spider-Man:%20Brand%20New%20Day" alt="Spider-Man Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=You're%20never%20truly%20alone.%20Sometimes%20in%20Life%20the%20Bravest%20Thing%20you%20can%20do%20is%20ask%20for%20Help.&author=Spider-Man:%20Brand%20New%20Day" alt="Spider-Man Quote" />
 </div>
 
 ## ▰▰▰ 𝕾𝖔𝖈𝖎𝖆𝖑𝖘 ▰▰▰
