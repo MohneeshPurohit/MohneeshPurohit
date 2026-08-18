@@ -1,17 +1,17 @@
 # ▰▰▰ 𝕸𝖔𝖍𝖓𝖊𝖊𝖘𝖍 𝕻𝖚𝖗𝖔𝖍𝖎𝖙 ▰▰▰
 
-<p align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/1eb30253-742a-46ee-a1c2-90e0ec1f2d2a" 
-    style="
-      width: 100%;
-      height: 250px;
-      object-fit: cover;
-      object-position: bottom;
-    "
-    alt="Храм Пространства Асмодей Genshin impact"
-  />
-</p
+<div align="center">
+  <table>
+    <tr>
+      <td width="75%" align="center" valign="middle">
+        <img src="https://github.com/user-attachments/assets/1eb30253-742a-46ee-a1c2-90e0ec1f2d2a" alt="Black Clover Banner" width="100%" />
+      </td>
+      <td width="25%" align="center" valign="middle">
+        <img src="https://github.com/user-attachments/assets/11443636-d842-4765-8bc3-e66eb5591be9" alt="Asta" width="200" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
