@@ -17,9 +17,9 @@
 ---
 
 ### ▰▰▰ 𝕬𝖇𝖔𝖚𝖙 𝕸𝖊 ▰▰▰
-I am a developer with a strong focus on backend architecture and hardware-software integration. I enjoy tackling complex problems, whether that involves optimizing database architectures, exploring Generative AI, or building practical IoT solutions. 
+I am a Computer Science undergrad driven by the intersection of intelligent systems and physical environments. My core focus lies in architecting end-to-end Machine Learning and Deep Learning pipelines—utilizing frameworks like PyTorch and TensorFlow alongside comprehensive data science toolkits to train and deploy robust models. I bridge the gap between software and the real world by integrating these AI capabilities into practical IoT ecosystems using PlatformIO, microcontrollers, and MQTT protocols. This data-driven approach is backed by solid backend engineering and optimized relational database management using Oracle and MySQL.
 
-When I step away from the keyboard, you can usually find me at the gym training for my next powerlifting block.
+When I step away from the IDE, I apply that same structured discipline to the gym, tracking macros and training for my next powerlifting block.
 
 ### ▰▰▰ 𝖂𝖍𝖆𝖙 𝕴'𝖒 𝕮𝖚𝖗𝖗𝖊𝖓𝖙𝖑𝖞 𝖂𝖔𝖗𝖐𝖎𝖓𝖌 𝕺𝖓 ▰▰▰
 * **Sentinel Telemetry AI:** Sentinel Telemetry AI is an autonomous, air-gapped industrial IoT diagnostic system designed as a privacy-first pipeline. Built as a production-grade telemetry and remediation engine, it focuses on deterministic control, observability, and self-healing systems.
